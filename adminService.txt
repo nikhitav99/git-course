@@ -3,6 +3,6 @@ change the roles
 manage the databases
 closing the connections
 change 1
-change 2
+change 2 in nikki DB
 
 
