@@ -1,7 +1,9 @@
 add and remove users
 change the roles
 manage the databases
-closing the oracle DB connections
+
+closing the my sql DB connections
+
 change 1
 
 change 2 in nikki DB
